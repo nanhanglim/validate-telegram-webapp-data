@@ -1,4 +1,5 @@
 # Validate Telegram WebApp Data
+[![npm version](https://badge.fury.io/js/@nanhanglim%2Fvalidate-telegram-webapp-data.svg)](https://badge.fury.io/js/@nanhanglim%2Fvalidate-telegram-webapp-data)
 
 Library to [validate Telegram WebApp Data](https://core.telegram.org/bots/webapps#validating-data-received-via-the-web-app)
 
