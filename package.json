@@ -1,11 +1,19 @@
 {
-  "name": "validate-telegram-webapp-data",
-  "version": "1.0.0",
+  "name": "@nanhanglim/validate-telegram-webapp-data",
+  "version": "1.0.2",
   "description": "to validate data received via telegram web app",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "nanhanglim",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanhanglim/validate-telegram-webapp-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nanhanglim/validate-telegram-webapp-data/issues"
+  },
+  "homepage": "https://github.com/nanhanglim/validate-telegram-webapp-data#readme"
 }
