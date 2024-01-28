@@ -1,6 +1,6 @@
 {
   "name": "@nanhanglim/validate-telegram-webapp-data",
-  "version": "3.0.0",
+  "version": "2.0.0",
   "description": "to validate data received via telegram web app",
   "main": "./src/index.ts",
   "scripts": {
