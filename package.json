@@ -1,6 +1,6 @@
 {
   "name": "@nanhanglim/validate-telegram-webapp-data",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "to validate data received via telegram web app",
   "main": "./src/index.ts",
   "scripts": {
@@ -20,9 +20,13 @@
   "homepage": "https://github.com/nanhanglim/validate-telegram-webapp-data#readme",
   "devDependencies": {
     "@types/node": "^20.11.7",
-    "tsup": "^8.0.1"
-  },
-  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^6.19.1",
+    "eslint": "^8.56.0",
+    "eslint-config-standard-with-typescript": "^43.0.1",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "tsup": "^8.0.1",
     "typescript": "^5.3.3"
   }
 }
